@@ -1,3 +1,9 @@
+
 i am prateek moving banglore 
 in accenture
-in may
+<<<<<<< HEAD
+in may...will get 10lps
+=======
+
+but he can go anywhere bcoz he want to become devops engineer any location
+>>>>>>> b54333c5e7f115fe78e7cd6f9702d1fa95846698
